@@ -1,0 +1,11 @@
+.btnGoBack {
+  background-color: inherit;
+  border: none;
+  width: 100px;
+  cursor: pointer;
+  color: #000000;
+}
+.btnGoBack:focus,
+.btnGoBack:hover {
+  opacity: 0.5;
+}

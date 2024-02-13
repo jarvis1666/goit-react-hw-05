@@ -1,0 +1,16 @@
+.filterInput {
+  width: 400px;
+  height: 30px;
+}
+.btnFilter {
+  background-color: #c1c1c8;
+  height: 38px;
+  width: 38px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+}
+.btnFilter:hover,
+.btnFilter:focus {
+  opacity: 0.8;
+}

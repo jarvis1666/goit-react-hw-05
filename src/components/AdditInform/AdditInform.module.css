@@ -1,0 +1,20 @@
+.containetAdditInfo {
+  margin-top: 20px;
+  border-bottom: 2px solid #000000;
+  padding-bottom: 20px;
+  box-shadow: 0px 10px 5px rgba (0, 0, 0, 0.1);
+}
+.AdditInfoText {
+  font-weight: 600;
+}
+.AdditInfoList {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.AdditInfoList :only-child:hover,
+.AdditInfoList :only-child:focus {
+  opacity: 0.5;
+}
